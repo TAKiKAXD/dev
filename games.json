@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "name": "testgame-1",
+        "version": "1.2.4",
+        "description": "test game 1",
+        "image": "https://takikaxd.github.io/dev/images/epic-image.jpg",
+        "downloadUrl": "https://takikaxd.github.io/dev/downloads/testgame-1.zip",
+        "executable": "EpicAdventure.exe",
+        "installPath": "C:\\Games\\testgame-1",
+        "icon": "fa-dragon",
+        "news": [
+            {
+                "title": "New DLC Released!",
+                "content": "Explore the Frozen Wastelands in our latest expansion pack.",
+                "date": "2023-05-15"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "test game 2",
+        "version": "1.2.4",
+        "description": "test game 2",
+        "image": "https://takikaxd.github.io/dev/images/epic-images.jpg",
+        "downloadUrl": "https://takikaxd.github.io/dev/downloads/testgame-2.zip",
+        "executable": "EpicAdventure.exe",
+        "installPath": "C:\\Games\\testgame-2",
+        "icon": "fa-dragon",
+        "news": [
+            {
+                "title": "New DLC Released!",
+                "content": "Explore the Frozen Wastelands in our latest expansion pack.",
+                "date": "2023-05-15"
+            }
+        ]
+    }
+]
