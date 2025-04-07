@@ -2,7 +2,7 @@
     {
         "id": "1",
         "name": "testgame-1",
-        "version": "1.2.4",
+        "version": "1.2.5",
         "description": "test game 1",
         "image": "https://takikaxd.github.io/dev/images/epic-image.jpg",
         "downloadUrl": "https://takikaxd.github.io/dev/downloads/test-game1.zip",
