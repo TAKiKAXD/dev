@@ -1,37 +1,33 @@
 [
     {
-        "id": "1",
-        "name": "testgame-1",
-        "version": "1.2.8",
-        "description": "test game 1",
-        "image": "https://takikaxd.github.io/dev/images/epic-image.jpg",
-        "downloadUrl": "https://takikaxd.github.io/dev/downloads/test-game1.zip",
-        "executable": "Art.exe",
-        "installPath": "C:\\Games\\testgame-1",
+        "id": "SBT",
+        "name": "Shattered Before Time",
+        "version": "0",
+        "description": "Shattered Before Time is a game about time travel and the consequences of your actions.",
+        "image": "https://takikaxd.github.io/dev/images/sbt.jpg",
+        "downloadUrl": "https://takikaxd.github.io/dev/downloads/sbt.zip",
+        "executable": "SBT.exe",
+        "installPath": "C:\\Games\\sbt",
         "icon": "fa-dragon",
         "news": [
-            {
-                "title": "New DLC Released!",
-                "content": "Explore the Frozen Wastelands in our latest expansion pack.",
-                "date": "2023-05-15"
-            }
+
         ]
     },
     {
-        "id": "2",
-        "name": "test game 2",
-        "version": "1.2.7",
-        "description": "test game 2",
-        "image": "https://takikaxd.github.io/dev/images/epic-images.jpg",
-        "downloadUrl": "https://takikaxd.github.io/dev/downloads/test-game2.zip",
+        "id": "KRC",
+        "name": "King Rock Clicker",
+        "version": "1.0.0",
+        "description": "king rock clicker is a game about clicking rocks and collecting rocks.",
+        "image": "https://takikaxd.github.io/dev/images/krc.jpg",
+        "downloadUrl": "https://takikaxd.github.io/dev/downloads/krc.zip",
         "executable": "EpicAdventure.exe",
-        "installPath": "C:\\Games\\testgame-2",
+        "installPath": "C:\\Games\\krc",
         "icon": "fa-dragon",
         "news": [
             {
-                "title": "New DLC Released!",
-                "content": "Explore the Frozen Wastelands in our latest expansion pack.",
-                "date": "2023-05-15"
+                "title": "New DLC Announcment!",
+                "content": "We are excited to announce the upcoming DLC for King Rock Clicker, which will include new features and improvements.",
+                "date": "8/04/2025"
             }
         ]
     }
