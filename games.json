@@ -2,10 +2,10 @@
     {
         "id": "SBT",
         "name": "Shattered Before Time",
-        "version": "3",
+        "version": "4",
         "description": "Shattered Before Time is a game about time travel and the consequences of your actions.",
         "image": "https://takikaxd.github.io/dev/images/sbt.jpg",
-        "downloadUrl": "https://takikaxd.github.io/dev/downloads/test-game1.zip",
+        "downloadUrl": "https://takikaxd.github.io/dev/downloads/test-game2.zip",
         "executable": "SBT.exe",
         "installPath": "C:\\Games\\sbt",
         "icon": "fa-dragon",
